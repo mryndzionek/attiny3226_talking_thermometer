@@ -1,5 +1,7 @@
 # ATTINY3226 talking thermometer
 
+https://github.com/user-attachments/assets/9c1e372b-2eaa-4c26-85d8-df196d5cc732
+
 ## Connections
 
  - a 100nF decoupling capacitor between pins `VDD` and `GND`
